@@ -1,9 +1,4 @@
-*.gem
-*.rbc
-.bundle
-.config
-coverage
-InstalledFiles
+nstalledFiles
 lib/bundler/man
 pkg
 rdoc
@@ -16,3 +11,5 @@ tmp
 .yardoc
 _yardoc
 doc/
+
+.project
